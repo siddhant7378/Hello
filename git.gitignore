@@ -1,0 +1,34 @@
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# Maven target directory
+/target/
+
+# Gradle build directory
+/build/
+
+# IntelliJ IDEA project files
+.idea/
+*.iml
+
+# Eclipse project files
+.classpath
+.project
+.settings/
+
+# VS Code settings
+.vscode/
+
+# Operating system-specific files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
+
+# Test reports
+/test-results/
